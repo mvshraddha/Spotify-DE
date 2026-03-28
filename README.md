@@ -58,7 +58,3 @@ Due to GitHub size limits, full dataset is available here:
 - Worked with Parquet format
 - Integrated AWS data with Power BI
 
-
-
-## 🔗 Project Reference
-https://youtu.be/yIc5a7C8aHs
