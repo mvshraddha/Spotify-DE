@@ -1,5 +1,0 @@
-1. Uploaded CSV to S3
-2. Created Glue crawler
-3. Generated tables
-4. Used Visual ETL to join tables
-5. Saved output to S3
