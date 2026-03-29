@@ -29,7 +29,7 @@ Kaggle Dataset → AWS S3 → AWS Glue Crawler → Glue Data Catalog → AWS Glu
 5. Stored processed data back into S3
 6. Downloaded final dataset
 7. Built interactive dashboard in Power BI
-
+   AWS GLUE ETL](etl_pipeline/Glue_ETL_Job.png)
 ---
 
 ## 📊 Dashboard Features
